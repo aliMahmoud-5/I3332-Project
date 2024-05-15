@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "El1JHOh1TCjB+oHWOMHylWkctZfCzA1RGtAbQxC+7pLhbIy4AubUJm58oa7MvQqIqBwtGptH5yvYA2j2F5XwRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOKER\\Desktop\\Lebanese University CS\\CS 3rd year\\I3332\\Project\\Store.web\\Store.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOKER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
